@@ -19,9 +19,6 @@ setup(
     platforms='ALL',
     license='MIT',
     packages=['arabic_reshaper'],
-    extras_require={
-        'with-fonttools': ['fonttools>=4.0']
-    },
     author='Abdullah Diab',
     author_email='mpcabd@gmail.com',
     maintainer='Abdullah Diab',
